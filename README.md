@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thiscafer
+- 👀 I’m interested in development
+- 🌱 I’m currently learning blokchain & bazel
+- 💞️ I’m looking to collaborate on exciting things
+- 📫 How to reach me thiscafer@gmail.com
